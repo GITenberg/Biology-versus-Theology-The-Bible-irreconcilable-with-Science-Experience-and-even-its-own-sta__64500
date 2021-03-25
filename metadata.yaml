@@ -1,11 +1,16 @@
 _repo: Biology-versus-Theology-The-Bible-irreconcilable-with-Science-Experience-and-even-its-own-sta__64500
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64500-h/images/cover.jpg
 creator:
   author:
     agent_name: Julian
     gutenberg_agent_id: '52923'
     url: http://www.gutenberg.org/2009/agents/52923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64500#Biology-versus-Theology-The-Bible-irreconcilable-with-Science-Experience-and-even-its-own-sta_
 gutenberg_issued: '2021-02-08'
 gutenberg_type: Text
 identifiers:
